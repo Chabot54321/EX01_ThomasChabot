@@ -1,0 +1,8 @@
+ex01
+
+tres bien
+
+EX01_ThomasChabot -> ex01_thomas_chabot ou ex01
+
+supprimer README.md.txt
+
