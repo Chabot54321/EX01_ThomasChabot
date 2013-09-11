@@ -2,7 +2,8 @@ main() {
   
   
   // Formules tirées du site :
-  //http://api.dartlang.org/docs/releases/latest/dart_math.html
+  // http://api.dartlang.org/docs/releases/latest/dart_math.html
+  // Inspiré aussi du commentaire de Johnny - December 24, 2012 sur http://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/
   
 String FIZZ = 'Fizz';
 String BUZZ = 'Buzz';
